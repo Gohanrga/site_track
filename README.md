@@ -1,4 +1,4 @@
-Vue 3 Project with TypeScript, Pinia, Vue Router, and Vitest
+``Vue 3 Project with TypeScript, Pinia, Vue Router, and Vitest
 
 Project Overview
 
